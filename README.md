@@ -44,7 +44,7 @@ Por favor, certifique-se de testar suas alterações antes de abrir um pull requ
 
 # Alunos:
 
-ALINE SANTOS SOUZA
+`ALINE SANTOS SOUZA`
 GUILHERME DE SOUSA VIRDIANO
 GUILHERME TADEU VASCONCELOS DA SILVA
 ISABELLA GAMA TERSSARIOL
