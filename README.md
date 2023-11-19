@@ -27,8 +27,9 @@ pip install -r requirements.txt
 
 # Executando a aplicação
 Após instalar as dependências, você pode executar a aplicação com o seguinte comando:
-
+```
 python app.py
+```
 
 # Como contribuir
 Para contribuir para este projeto, siga os seguintes passos:
