@@ -8,9 +8,11 @@ Os arquivos principais da aplicação são:
 
 `db.py`: Este arquivo contém funções para a criação do banco de dados e para adicionar usuários.
 
-templates/aluno.html: Este é o arquivo de modelo para a página Aluno da aplicação.
-templates/professor.html: Este é o arquivo de modelo para a página Professor da aplicação.
-static/: Pasta com os arquivos em CSS.
+`Page_Aluno.html`: Este é o arquivo de modelo para a página Aluno da aplicação.
+
+`Page_Prof.html`: Este é o arquivo de modelo para a página Professor da aplicação.
+
+`FRONT-END/`: Pasta com os arquivos em CSS.
 
 # Instalação
 Para instalar e executar este projeto, você precisa ter Python 3 e pip instalados em seu sistema.
