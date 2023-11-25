@@ -33,6 +33,8 @@ Após instalar as dependências, você pode executar a aplicação com o seguint
 ```
 python app.py
 ```
+#Link do video
+https://www.youtube.com/watch?v=cOWRuTnHr-s
 
 # Como contribuir
 Para contribuir para este projeto, siga os seguintes passos:
